@@ -1,0 +1,6 @@
+{
+  "name": "Second Look - Credit Union Social Engineering Shield",
+  "description": "Real-time scam friction intervention system for credit union portals with 2FA, behavioral signal scoring, and response ladder protections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
